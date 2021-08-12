@@ -159,3 +159,14 @@ section:nth-of-type(3) .mid .right img {
   text-align: center;
   padding-top: 3.5%;
 }
+.btn {
+  margin-top: 30px;
+  font-size: 15px;
+  padding: 5px 10px;
+  background-color: var(--btn);
+  color: var(--white);
+  display: inline-block;
+}
+.btn span {
+  padding-left: 2px;
+}
